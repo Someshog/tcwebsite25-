@@ -1,6 +1,10 @@
-# 🚀 Vite React TechFest Project
+<!-- Ecommerce, TechFest Website, React, Vite, Tailwind, Node.js, Full Stack -->
+
+# 🚀 TechVibes 2025 Website 
 
 Welcome to the official repository for our TechFest web application! This project showcases a modern, high-performance website built with [Vite](https://vitejs.dev/), [React](https://react.dev/), and [Tailwind CSS](https://tailwindcss.com/). It is designed to highlight our technical skills, UI/UX design, and ability to deliver a scalable, production-ready solution for large events.
+
+🔗 **Live Demo**: [https://www.techvibesbitj.in](https://www.techvibesbitj.in)
 
 ---
 
@@ -18,7 +22,7 @@ Welcome to the official repository for our TechFest web application! This projec
 
 ## 🏆 Tech Stack
 
-- **Frontend**: React, Vite, Tailwind CSS
+- **Frontend**: React, Vite, Tailwind CSS (fully configured for rapid prototyping)
 - **Backend**: Node.js (Express-ready)
 - **Deployment**: Vercel (with `vercel.json`)
 - **Tooling**: ESLint, PostCSS
@@ -90,16 +94,10 @@ README.md           # Project documentation
 
 ## ✨ Screenshots
 
-> _Add screenshots or a demo GIF here to showcase your UI!_
+![image](https://github.com/user-attachments/assets/fbdc3588-e3c5-42ab-896a-f863805018b2)
 
 ---
 
-## 💡 Customization & Styling
-
-- Tailwind CSS is fully configured for rapid prototyping and custom themes.
-- Easily extend or modify components in the `components/` directory.
-
----
 
 ## 🚀 Deployment
 
@@ -108,11 +106,6 @@ README.md           # Project documentation
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
 
 ## 📜 License
 
@@ -120,6 +113,12 @@ This project is for educational and demonstration purposes.
 
 ---
 
-## 🙋‍♂️ About Us
+## 🙋‍♂️ About Me
 
-This project was created as part of a technical contest to demonstrate our skills in modern web development, UI/UX, and scalable architecture. Connect with us on [LinkedIn](https://www.linkedin.com/) or check out more projects on our [GitHub profile](https://github.com/your-username)!
+Hi! I'm Somesh, a 3rd-year Computer Science student with a strong interest in modern web development, design systems, and scalable frontend architectures.
+
+I led the design, development, and maintenance of the official **TechVibes 2025** website — our college's premier technical fest.  
+This project involved building a dynamic and visually engaging platform to showcase event schedules, handle registrations, and post live updates.  
+
+🚀 As a result, we saw a significant increase in participant engagement and smoother communication during the fest.  
+It was a hands-on opportunity to apply my skills in **React, Tailwind CSS, Vite, and deployment workflows**, while collaborating closely with our college’s technical committee.
